@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: simba2479/node-app:lates
+    image: simba2479/node-app:latest
     ports:
       - "8000:8000"
